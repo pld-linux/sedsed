@@ -18,6 +18,14 @@ of sed (Linux, DOS, etc.). It's also a script beautifier, doing
 indentation and spaces/comments formatting. It can also convert sed
 scripts to colorful HTML files.
 
+%description -l pl
+sedsed to skrypt w Pythonie panuj±cy nad skryptami seda. Generuje
+pliki diagnostyczne seda w sedzie, pozwalaj±ce odpluskwiaæ skrypty
+przy u¿yciu w³asnej wersji seda (linuksowej, dosowej itp.). Jest tak¿e
+upiêkszaczem skryptów, dodaj±cym wciêcia i formatowanie odstêpów i
+komentarzy. Mo¿e tak¿e konwertowaæ skrypty seda do kolorowych plików
+HTML.
+
 %prep
 
 %install
