@@ -8,6 +8,7 @@ Group:		Applications/Console
 Source0:	http://sedsed.sourceforge.net/%{name}-%{version}
 # Source0-md5:	14ef0cc49d0ca8b2e1a88bc0aa83ce2d
 URL:		http://sedsed.sourceforge.net/
+BuildRequires:	sed >= 4.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
