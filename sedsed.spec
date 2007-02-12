@@ -1,5 +1,5 @@
 Summary:	Mastering sed scripts
-Summary(pl):	Opanowywanie skryptów sed
+Summary(pl.UTF-8):   Opanowywanie skryptÃ³w sed
 Name:		sedsed
 Version:	1.0
 Release:	1
@@ -18,12 +18,12 @@ of sed (Linux, DOS, etc.). It's also a script beautifier, doing
 indentation and spaces/comments formatting. It can also convert sed
 scripts to colorful HTML files.
 
-%description -l pl
-sedsed to skrypt w Pythonie panuj±cy nad skryptami seda. Generuje
-pliki diagnostyczne seda w sedzie, pozwalaj±ce odpluskwiaæ skrypty
-przy u¿yciu w³asnej wersji seda (linuksowej, dosowej itp.). Jest tak¿e
-upiêkszaczem skryptów, dodaj±cym wciêcia i formatowanie odstêpów i
-komentarzy. Mo¿e tak¿e konwertowaæ skrypty seda do kolorowych plików
+%description -l pl.UTF-8
+sedsed to skrypt w Pythonie panujÄ…cy nad skryptami seda. Generuje
+pliki diagnostyczne seda w sedzie, pozwalajÄ…ce odpluskwiaÄ‡ skrypty
+przy uÅ¼yciu wÅ‚asnej wersji seda (linuksowej, dosowej itp.). Jest takÅ¼e
+upiÄ™kszaczem skryptÃ³w, dodajÄ…cym wciÄ™cia i formatowanie odstÄ™pÃ³w i
+komentarzy. MoÅ¼e takÅ¼e konwertowaÄ‡ skrypty seda do kolorowych plikÃ³w
 HTML.
 
 %prep
