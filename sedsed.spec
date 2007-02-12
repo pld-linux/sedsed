@@ -1,5 +1,5 @@
 Summary:	Mastering sed scripts
-Summary(pl.UTF-8):   Opanowywanie skryptów sed
+Summary(pl.UTF-8):	Opanowywanie skryptów sed
 Name:		sedsed
 Version:	1.0
 Release:	1
